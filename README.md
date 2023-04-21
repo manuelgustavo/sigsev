@@ -10,5 +10,5 @@ gcc sigsev.c -o sigsev
 **Running**
 
 ```
-gcc sigsev.c -o sigsev
+./sigsev
 ```

@@ -1,2 +1,14 @@
 # sigsev
-Program that causes a segmentation fault.
+Just arogram that causes segmentation fault.
+
+**Building**
+
+```
+gcc sigsev.c -o sigsev
+```
+
+**Running**
+
+```
+gcc sigsev.c -o sigsev
+```
